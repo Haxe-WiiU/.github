@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Haxe-WiiU/.github/blob/main/profile/haxeu-logo.png)
 
 This is an organization that is focused on promoting C++ libraries that are functional for the Nintendo Wii U ready to be used in Haxe.
 
